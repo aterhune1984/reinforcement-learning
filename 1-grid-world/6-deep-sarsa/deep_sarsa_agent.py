@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import copy
 import pylab
 import random
